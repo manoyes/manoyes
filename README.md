@@ -2,7 +2,6 @@
 
 <h3 align="center">C++ and Graphics Programmer</h3>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 <img src="https://komarev.com/ghpvc/?username=manoyes&label=Profile%20views&color=0e75b6&style=flat" alt="manoyes" />
 
 - 🔭 I’m currently working on:
