@@ -9,10 +9,6 @@
   
 - 💬 Ask me about anything [here](https://github.com/manoyes/manoyes/discussions)
 
-- 📫 How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/manoyes/)
-  - [Instagram](https://www.instagram.com/image.noyes/?hl=en)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manoyes&theme=onedark" alt="manoyes" /></a> </p>
 
 <p align="left">
